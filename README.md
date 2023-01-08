@@ -1,1 +1,2 @@
 # Hangman-Game
+Hangman is a classic word guessing game in which player try to guess a word by suggesting letters. The game typically begins with a blank word, with each blank representing a letter in the word. Players take turns suggesting letters, and if the letter is in the word, the blank is filled in with the correct letter. If the letter is not in the word, a part of a stick figure is drawn, representing a person being "hung." The game continues until the player either correctly guesses the word, or the stick figure is fully drawn, at which point the player loses.
